@@ -1,6 +1,6 @@
 # Practice with git and GitHub
 
-I'm christ and I edited this files now
+I'm christ and I edited this files again
 
 
 \[I'm Christine..\]
